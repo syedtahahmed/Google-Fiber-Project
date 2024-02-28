@@ -20,7 +20,7 @@ The ultimate goal is to reduce call volume by increasing customer satisfaction a
 Since the tables were already cleaned and the columns matched, a target table was created using BigQuery to consolidate and store the Google Fiber datasets for the final dashboard.
 
 ## Tableau Dashboard
-[Link to Tableau Dashboard](https://public.tableau.com/app/profile/syed.taha.ahmed/vizzes)
+[Link to Tableau Dashboard]([https://public.tableau.com/app/profile/syed.taha.ahmed/vizzes](https://public.tableau.com/views/GoogleFiberProject_17091398711100/RepeatCalls?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link))
 
 ### Repeats by Month
 The first tab of the dashboard includes two bar charts: the first chart visualizes the number of repeat calls the customer service team received each month. Contacts_N represents the first date a customer called– then, one can explore how often the customer called again that week. For example, 1,636 customers called again one day after their initial call, but only 575 customers called again seven days later in January. 
